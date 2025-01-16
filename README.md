@@ -36,3 +36,10 @@ To download and try the app, click [here](https://raw.githubusercontent.com/abdu
 
 1. Install the app from the provided link.
 2. Explore the various sections, especially the "دحيح" section to experience the Gemini AI integration.
+
+## License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this software under the terms of the license.  
+
+For more details, see the [LICENSE](./LICENSE) file in this repository.
